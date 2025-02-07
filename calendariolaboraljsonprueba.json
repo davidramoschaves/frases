@@ -1,0 +1,56 @@
+{
+"Argentona": [
+{
+"Fecha": "02/01/2025",
+"Festividad local": [
+"Ejemplo de nombre festividad 1"
+]
+},
+{
+"Fecha": "12/01/2025",
+"Festividad autonomica": [
+"Ejemplo de nombre festividad 2"
+]
+},
+{
+"Fecha": "27/01/2025",
+"Festividad local": [
+"Ejemplo de nombre festividad 3"
+]
+},
+{
+"Información del municipio": {
+"Comunidad Autonoma": "Catalunya",
+"Nivel": "3",
+"Provincia": "Barcelona"
+}
+}
+],
+"Lubrín": [
+{
+"Fecha": "03/06/2025",
+"Festividad local": [
+"Ejemplo de nombre festividad 1"
+]
+},
+{
+"Fecha": "13/06/2025",
+"Festividad autonomica": [
+"Ejemplo de nombre festividad 2"
+]
+},
+{
+"Fecha": "28/01/2025",
+"Festividad local": [
+"Ejemplo de nombre festividad 3"
+]
+},
+{
+"Información del municipio": {
+"Comunidad Autonoma": "Andalucia",
+"Nivel": "3",
+"Provincia": "Almería"
+}
+}
+]
+}
