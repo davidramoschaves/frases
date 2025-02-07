@@ -1,19 +1,19 @@
 {
    "Argentona": [
       {
-         "Fecha": "2025-01-02",
+         "Fecha": "02/01/2025",
          "Festividad local": [
             "Ejemplo de nombre festividad 1"
          ]
       },
       {
-         "Fecha": "2025-01-03",
+         "Fecha": "07/01/2025",
          "Festividad autonomica": [
             "Ejemplo de nombre festividad 2"
          ]
       },
       {
-         "Fecha": "2025-01-04",
+         "Fecha": "03/01/2025",
          "Festividad local": [
             "Ejemplo de nombre festividad 3"
          ]
@@ -28,19 +28,19 @@
    ],
    "Lubrín": [
       {
-         "Fecha": "2025-01-02",
+         "Fecha": "03/01/2025",
          "Festividad local": [
             "Ejemplo de nombre festividad 1"
          ]
       },
       {
-         "Fecha": "2025-01-23",
+         "Fecha": "09/01/2025",
          "Festividad autonomica": [
             "Ejemplo de nombre festividad 2"
          ]
       },
       {
-         "Fecha": "2025-01-30",
+         "Fecha": "08/01/2025",
          "Festividad local": [
             "Ejemplo de nombre festividad 3"
          ]
