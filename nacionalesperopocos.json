@@ -1,0 +1,167 @@
+{
+    "Abla": [
+        {
+            "Fecha": "28/02/2025",
+            "Festividad autonomica": [
+                "Día de Andalucí­a"
+            ]
+        },
+        {
+            "Fecha": "17/04/2025",
+            "Festividad autonomica": [
+                "Jueves Santo"
+            ]
+        },
+
+        {
+            "Fecha": "28/04/2025",
+            "Festividad local": [
+                "Festivo Local"
+            ]
+        },
+
+        {
+            "Fecha": "04/08/2025",
+            "Festividad local": [
+                "Festivo Local"
+            ]
+        },
+
+        {
+            "Fecha": "13/10/2025",
+            "Festividad autonomica": [
+                "Lunes siguiente al dí­a de la Fiesta Nacional de España"
+            ]
+        },
+        {
+            "Información del municipio": {
+                "Comunidad Autónoma": "Andalucía",
+                "Provincia": "Almería"
+            }
+        }
+    ],
+    "Velliza": [
+        {
+            "Fecha": "17/04/2025",
+            "Festividad autonomica": [
+                "Jueves Santo"
+            ]
+        },
+
+        {
+            "Fecha": "23/04/2025",
+            "Festividad autonomica": [
+                "Fiesta de Castilla y León"
+            ]
+        },
+
+
+        {
+            "Fecha": "08/09/2025",
+            "Festividad autonomica": [
+                "Festivo Local"
+            ]
+        },
+        {
+            "Fecha": "13/10/2025",
+            "Festividad autonomica": [
+                "Lunes siguiente al dí­a de la Fiesta Nacional de España"
+            ]
+        },
+
+        {
+            "Fecha": "12/11/2025",
+            "Festividad local": [
+                "Festivo Local"
+            ]
+        },
+        {
+            "Información del municipio": {
+                "Comunidad Autónoma": "Castilla y León",
+                "Provincia": "Valladolid"
+            }
+        }
+    ],
+    "Ventosa De La Cuesta": [
+        {
+            "Fecha": "17/04/2025",
+            "Festividad autonomica": [
+                "Jueves Santo"
+            ]
+        },
+
+        {
+            "Fecha": "23/04/2025",
+            "Festividad autonomica": [
+                "Fiesta de Castilla y León"
+            ]
+        },
+
+        {
+            "Fecha": "15/05/2025",
+            "Festividad local": [
+                "Festivo Local"
+            ]
+        },
+        {
+            "Fecha": "24/07/2025",
+            "Festividad local": [
+                "Festivo Local"
+            ]
+        },
+
+        {
+            "Fecha": "13/10/2025",
+            "Festividad autonomica": [
+                "Lunes siguiente al dí­a de la Fiesta Nacional de España"
+            ]
+        },
+        {
+            "Información del municipio": {
+                "Comunidad Autónoma": "Castilla y León",
+                "Provincia": "Valladolid"
+            }
+        }
+    ],
+    "Villacarralón": [
+        {
+            "Fecha": "17/04/2025",
+            "Festividad autonomica": [
+                "Jueves Santo"
+            ]
+        },
+
+        {
+            "Fecha": "23/04/2025",
+            "Festividad autonomica": [
+                "Fiesta de Castilla y León"
+            ]
+        },
+
+        {
+            "Fecha": "26/06/2025",
+            "Festividad local": [
+                "Festivo Local"
+            ]
+        },
+
+        {
+            "Fecha": "16/08/2025",
+            "Festividad local": [
+                "Festivo Local"
+            ]
+        },
+        {
+            "Fecha": "13/10/2025",
+            "Festividad autonomica": [
+                "Lunes siguiente al dí­a de la Fiesta Nacional de España"
+            ]
+        },
+        {
+             "Información del municipio": {
+                "Comunidad Autónoma": "País Vasco",
+                "Provincia": "Guipuzcoa/Gipuzkoa"
+            }
+        }
+    ]
+}
